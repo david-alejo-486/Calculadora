@@ -20,4 +20,4 @@ var division = function (){
     var valorx = document.getElementById('valor1').value
     var valory = document.getElementById('valor2').value
     document.getElementById('resultado').innerHTML= "El resultado de la division es: " + (parseInt (valorx) / parseInt(valory))
-}sss
+}
